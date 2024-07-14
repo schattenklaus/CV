@@ -7,7 +7,7 @@ title: Steffen Seitz
 
 # Full name (for SEO)
 first_name: Steffen
-last_name: CSeitz
+last_name: Seitz
 
 # Status emoji
 status:
