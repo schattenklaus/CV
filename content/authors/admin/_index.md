@@ -21,7 +21,7 @@ role: Research Associate in Explainable AI at TUD and SECAI
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: School of Embedded and Composite Artificial Intelligence 'Test'
+  - name: School of Embedded and Composite Artificial Intelligence 
     url: https://secai.org/
   - name: Technische Universität Dresden
     url: https://tu-dresden.de/ing/elektrotechnik/iee/ge/die-professur/beschaeftigte/steffen-seitz
@@ -38,8 +38,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Technische Universität Dresden
+    - course: PhD in Artificial Intelligence @ TU Dresden
+      institution: 'On neural Sequential Models for Predictive Condition Monitoring'
       year: 2024
     - course: Dipl.-Ing. in Electrical Engineering (Information Systems Engineering Major) 
       institution: Technische Universität Dresden
