@@ -124,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-I am a PostDoc reseacher SECAI/TU Dresden. My research interests include AI explainability methods and their application to condition monitoring. I lead the Explainable Artificial Intelligence group at TU Dresden, which develops and evaluates novel AI explainability methods and studies their impact on human operator performance in condition monitoring tasks.
+I am a doctoral reseacher SECAI/TU Dresden. My research interests include AI explainability methods and their application to condition monitoring. I lead the Explainable Artificial Intelligence group at TU Dresden, which develops and evaluates novel AI explainability methods and studies their impact on human operator performance in condition monitoring tasks.
 {style="text-align: justify;"}
