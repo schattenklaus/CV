@@ -38,9 +38,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institition: On Neural Sequential Models for Predictive Condition Monitoring
-      institution: TU Dresden
+    - course: PhD in Artificial Intelligence, TU Dresden
+      institition: "On Neural Sequential Models for Predictive Condition Monitoring"
+      
       year: 2024
     - course: Dipl.-Ing. in Electrical Engineering (Information Systems Engineering Major)
       
@@ -124,5 +124,5 @@ social:
 highlight_name: true
 ---
 
-I am a PostDoc reseacher SECAI/TU Dresden. His research interests include AI explainability methods and their application to condition monitoring. He leads the Explainable Artificial Intelligence group at TU Dresden, which develops and evaluates novel AI explainability methods and their impact on human operator performance in condition monitoring tasks.
+I am a PostDoc reseacher SECAI/TU Dresden. My research interests include AI explainability methods and their application to condition monitoring. I lead the Explainable Artificial Intelligence group at TU Dresden, which develops and evaluates novel AI explainability methods and studies their impact on human operator performance in condition monitoring tasks.
 {style="text-align: justify;"}
