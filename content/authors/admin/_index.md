@@ -3,7 +3,7 @@
 title: Steffen Seitz 
 
 # Name pronunciation (optional)
-#name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Steffen
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Associate in Explainable Artificial Intelligence at TUD and SECAI
+role: Research Associate in Explainable AI at TUD and SECAI
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: School of Embedded and Composite Artificial Intelligence
+  - name: School of Embedded and Composite Artificial Intelligence 'Test'
     url: https://secai.org/
   - name: Technische Universität Dresden
     url: https://tu-dresden.de/ing/elektrotechnik/iee/ge/die-professur/beschaeftigte/steffen-seitz
@@ -39,7 +39,7 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institition: Technische Universität Dresden
+      institution: Technische Universität Dresden
       year: 2024
     - course: Dipl.-Ing. in Electrical Engineering (Information Systems Engineering Major) 
       institution: Technische Universität Dresden
