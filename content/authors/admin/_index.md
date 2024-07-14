@@ -39,7 +39,7 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      title: On Neural Sequential Models for Predictive Condition Monitoring
+      institition: On Neural Sequential Models for Predictive Condition Monitoring
       institution: TU Dresden
       year: 2024
     - course: Dipl.-Ing. in Electrical Engineering (Information Systems Engineering Major)
