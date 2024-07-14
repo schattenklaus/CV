@@ -38,8 +38,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence, TU Dresden
-      institition: On Neural Sequential Models for Predictive Condition Monitoring
+    - course: PhD in Artificial Intelligence
+      institition: Technische Universität Dresden
       year: 2024
     - course: Dipl.-Ing. in Electrical Engineering (Information Systems Engineering Major) 
       institution: Technische Universität Dresden
